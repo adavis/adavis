@@ -1,5 +1,13 @@
 ![Banner image for adavis GitHub profile](images/banner_image_github_profile_adavis.png)
 
+<p align="center">
+
+![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%238a2f32&style=for-the-badge&logo=twitter&label=brwngrldev)
+
+![GitHub followers](https://img.shields.io/github/followers/adavis?color=%238a2f32&style=for-the-badge&logo=github)
+
+</p>
+
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Programmatically laying out views in ConstraintLayout with Flow](https://adavis.info/2021/03/programmatically-laying-out-views-in-constraintlayout-with-flow.html?utm_source=rss&utm_medium=rss&utm_campaign=programmatically-laying-out-views-in-constraintlayout-with-flow)
