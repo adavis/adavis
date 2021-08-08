@@ -2,7 +2,7 @@
 
 <p align="center">
 
-    [![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%238a2f32&style=for-the-badge&logo=twitter&label=brwngrldev)](https://twitter.com/brwngrldev)   [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%238a2f32&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%23e71f2e&style=for-the-badge&logo=twitter&label=brwngrldev)](https://twitter.com/brwngrldev) [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%23e71f2e&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers)
 
 </p>
 
