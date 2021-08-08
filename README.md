@@ -12,6 +12,11 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%23e71f2e&style=for-the-badge&logo=twitter&label=brwngrldev)](https://twitter.com/brwngrldev) [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%23e71f2e&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers)
 
+## :computer: Most popular courses
+- [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
+- [Tech Career Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication?u=0)
+- [Android Development Essential Training: 4 Working with Data](https://www.linkedin.com/learning/android-development-essential-training-4-working-with-data/developing-data-driven-apps)
+
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Programmatically laying out views in ConstraintLayout with Flow](https://adavis.info/2021/03/programmatically-laying-out-views-in-constraintlayout-with-flow.html?utm_source=rss&utm_medium=rss&utm_campaign=programmatically-laying-out-views-in-constraintlayout-with-flow)
