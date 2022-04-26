@@ -19,9 +19,9 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Improved caching with Kotlin flows and the reduce function](https://adavis.info/2022/03/improved-caching-with-kotlin-flows-and-the-reduce-function.html?utm_source=rss&utm_medium=rss&utm_campaign=improved-caching-with-kotlin-flows-and-the-reduce-function)
 - [Testing Hybrid Jetpack Compose Apps](https://adavis.info/2021/09/testing-hybrid-jetpack-compose-apps.html?utm_source=rss&utm_medium=rss&utm_campaign=testing-hybrid-jetpack-compose-apps)
 - [Programmatically laying out views in ConstraintLayout with Flow](https://adavis.info/2021/03/programmatically-laying-out-views-in-constraintlayout-with-flow.html?utm_source=rss&utm_medium=rss&utm_campaign=programmatically-laying-out-views-in-constraintlayout-with-flow)
 - [Talk: Musings on Kotlin Multiplatform Mobile](https://adavis.info/2021/01/talk-musings-on-kotlin-multiplatform-mobile.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-musings-on-kotlin-multiplatform-mobile)
 - [Talk: Landing Your Next Gig in Tech](https://adavis.info/2020/06/talk-landing-your-next-gig-in-tech.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-landing-your-next-gig-in-tech)
-- [Using Code Commits as Clues](https://adavis.info/2020/03/using-code-commits-as-clues.html?utm_source=rss&utm_medium=rss&utm_campaign=using-code-commits-as-clues)
 <!-- BLOG-POST-LIST:END -->
