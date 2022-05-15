@@ -19,9 +19,9 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What engineering leaders need to know from this year’s Google I/O](https://adavis.info/2022/05/what-engineering-leaders-need-to-know-from-this-years-google-i-o.html?utm_source=rss&utm_medium=rss&utm_campaign=what-engineering-leaders-need-to-know-from-this-years-google-i-o)
 - [Talk: The Real MVP](https://adavis.info/2022/05/talk-the-real-mvp.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-the-real-mvp)
 - [Improved caching with Kotlin flows and the reduce function](https://adavis.info/2022/03/improved-caching-with-kotlin-flows-and-the-reduce-function.html?utm_source=rss&utm_medium=rss&utm_campaign=improved-caching-with-kotlin-flows-and-the-reduce-function)
 - [Testing Hybrid Jetpack Compose Apps](https://adavis.info/2021/09/testing-hybrid-jetpack-compose-apps.html?utm_source=rss&utm_medium=rss&utm_campaign=testing-hybrid-jetpack-compose-apps)
 - [Programmatically laying out views in ConstraintLayout with Flow](https://adavis.info/2021/03/programmatically-laying-out-views-in-constraintlayout-with-flow.html?utm_source=rss&utm_medium=rss&utm_campaign=programmatically-laying-out-views-in-constraintlayout-with-flow)
-- [Talk: Musings on Kotlin Multiplatform Mobile](https://adavis.info/2021/01/talk-musings-on-kotlin-multiplatform-mobile.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-musings-on-kotlin-multiplatform-mobile)
 <!-- BLOG-POST-LIST:END -->
