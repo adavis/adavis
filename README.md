@@ -10,7 +10,7 @@ I love creating online training materials. In fact, I’ve created several cours
 
 I hope you find something useful in my little portion of the Internet :wink:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%23e71f2e&style=for-the-badge&logo=twitter&label=brwngrldev)](https://twitter.com/brwngrldev) [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%23e71f2e&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%23e71f2e&style=for-the-badge&logo=twitter&label=brwngrldev)](https://twitter.com/brwngrldev) [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%23e71f2e&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers) ![Mastodon Follow](https://img.shields.io/mastodon/follow/109274424811532162?domain=https%3A%2F%2Fandroiddev.social&style=for-the-badge&logo=mastodon&color=%2323e71f2)
 
 ## :computer: Most popular courses
 - [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
