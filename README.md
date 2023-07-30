@@ -19,9 +19,9 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fall in love ❤️ with Android Studio all over again](https://adavis.info/2023/07/fall-in-love-with-android-studio-all-over-again.html?utm_source=rss&utm_medium=rss&utm_campaign=fall-in-love-with-android-studio-all-over-again)
 - [How to fix common Android API deprecations](https://adavis.info/2022/08/how-to-fix-common-android-api-deprecations.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-common-android-api-deprecations)
 - [[COURSE]: Introduction to Career Skills in Software Development](https://adavis.info/2022/08/course-microsoft-foundational-career-certificate-in-programming.html?utm_source=rss&utm_medium=rss&utm_campaign=course-microsoft-foundational-career-certificate-in-programming)
 - [What engineering leaders need to know from this year’s Google I/O](https://adavis.info/2022/05/what-engineering-leaders-need-to-know-from-this-years-google-i-o.html?utm_source=rss&utm_medium=rss&utm_campaign=what-engineering-leaders-need-to-know-from-this-years-google-i-o)
 - [Talk: The Real MVP](https://adavis.info/2022/05/talk-the-real-mvp.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-the-real-mvp)
-- [Improved caching with Kotlin flows and the reduce function](https://adavis.info/2022/03/improved-caching-with-kotlin-flows-and-the-reduce-function.html?utm_source=rss&utm_medium=rss&utm_campaign=improved-caching-with-kotlin-flows-and-the-reduce-function)
 <!-- BLOG-POST-LIST:END -->
