@@ -19,9 +19,9 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Talk: Two Decades in Tech – A Survival Guide](https://annycedavis.com/2024/06/talk-two-decades-in-tech-a-survival-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-two-decades-in-tech-a-survival-guide)
 - [How to use A/B tests to maximize your app’s revenue](https://annycedavis.com/2024/01/how-to-use-a-b-tests-to-maximize-your-apps-revenue.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-a-b-tests-to-maximize-your-apps-revenue)
 - [Talk: Mutating Meetup with GraphQL](https://annycedavis.com/2023/09/talk-mutating-meetup-with-graphql.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-mutating-meetup-with-graphql)
 - [Fall in love ❤️ with Android Studio all over again](https://annycedavis.com/2023/07/fall-in-love-with-android-studio-all-over-again.html?utm_source=rss&utm_medium=rss&utm_campaign=fall-in-love-with-android-studio-all-over-again)
 - [How to fix common Android API deprecations](https://annycedavis.com/2022/08/how-to-fix-common-android-api-deprecations.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-common-android-api-deprecations)
-- [[COURSE]: Introduction to Career Skills in Software Development](https://annycedavis.com/2022/08/course-microsoft-foundational-career-certificate-in-programming.html?utm_source=rss&utm_medium=rss&utm_campaign=course-microsoft-foundational-career-certificate-in-programming)
 <!-- BLOG-POST-LIST:END -->
