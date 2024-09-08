@@ -19,9 +19,9 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Talk: Adventure beyond the keyboard: Growth strategies for senior leaders](https://annycedavis.com/2024/09/talk-growth-strategies-for-senior-leaders.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-growth-strategies-for-senior-leaders)
 - [The Little Things: Persistent pop-ups](https://annycedavis.com/2024/07/the-little-things-persistent-pop-ups.html?utm_source=rss&utm_medium=rss&utm_campaign=the-little-things-persistent-pop-ups)
 - [The Little Things: Confusing error messages](https://annycedavis.com/2024/06/the-little-things-confusing-error-messages.html?utm_source=rss&utm_medium=rss&utm_campaign=the-little-things-confusing-error-messages)
 - [Talk: Two Decades in Tech – A Survival Guide](https://annycedavis.com/2024/06/talk-two-decades-in-tech-a-survival-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-two-decades-in-tech-a-survival-guide)
 - [How to use A/B tests to maximize your app’s revenue](https://annycedavis.com/2024/01/how-to-use-a-b-tests-to-maximize-your-apps-revenue.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-a-b-tests-to-maximize-your-apps-revenue)
-- [Talk: Mutating Meetup with GraphQL](https://annycedavis.com/2023/09/talk-mutating-meetup-with-graphql.html?utm_source=rss&utm_medium=rss&utm_campaign=talk-mutating-meetup-with-graphql)
 <!-- BLOG-POST-LIST:END -->
