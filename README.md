@@ -4,8 +4,6 @@ Hey, I’m **Annyce Davis**. Thanks for stopping by! I spend my day-to-day worki
 
 I’m an [Android and Kotlin Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-annyce-davis). This means that I spend time developing videos, blog posts, and conference talks for the Developer Community. It’s something that I’m very proud of and passionate about.
 
-I’m currently the **Vice President of Engineering** at [Meetup](https://www.meetup.com/). At Meetup, I help create the future of real community where people show up, do things, and actually talk to each other. Shaping what “mobile-first” means for an established company is both challenging and rewarding.
-
 I love creating online training materials. In fact, I’ve created several courses for [LinkedIn Learning](https://www.linkedin.com/learning/instructors/annyce-davis?u=0) that cover multiple subjects related to software engineering.
 
 I hope you find something useful in my little portion of the Internet :wink:
