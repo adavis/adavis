@@ -1,19 +1,22 @@
-![Banner image for adavis GitHub profile](images/banner_image_github_profile_adavis.png)
+![Banner image for adavis GitHub profile](images/banner_image_github_profile_adavis.jpeg)
 
-Hey, I’m **Annyce Davis**. Thanks for stopping by! I spend my day-to-day working as an Engineering Leader. I’ve specifically been focused on native mobile applications for over the past decade.
-
-I’m an [Android and Kotlin Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-annyce-davis). This means that I spend time developing videos, blog posts, and conference talks for the Developer Community. It’s something that I’m very proud of and passionate about.
+Hey, I'm **Annyce Davis**. Thanks for stopping by! I work as a **Senior Engineering Leader** and **Technology Consultant**. I've specifically focused on helping companies enhance the performance of their engineering teams.
 
 I love creating online training materials. In fact, I’ve created several courses for [LinkedIn Learning](https://www.linkedin.com/learning/instructors/annyce-davis?u=0) that cover multiple subjects related to software engineering.
 
 I hope you find something useful in my little portion of the Internet :wink:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/brwngrldev?color=%23e71f2e&style=for-the-badge&logo=twitter&label=brwngrldev)](https://twitter.com/brwngrldev) [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%23e71f2e&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers) ![Mastodon Follow](https://img.shields.io/mastodon/follow/109274424811532162?domain=https%3A%2F%2Fandroiddev.social&style=for-the-badge&logo=mastodon&color=%2323e71f2)
+[![Bluesky](https://img.shields.io/badge/Bluesky-brwngrldev-%23e71f2e?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/brwngrldev.bsky.social) [![GitHub followers](https://img.shields.io/github/followers/adavis?color=%23e71f2e&style=for-the-badge&logo=github)](https://github.com/adavis?tab=followers) ![Mastodon Follow](https://img.shields.io/mastodon/follow/109274424811532162?domain=https%3A%2F%2Fandroiddev.social&style=for-the-badge&logo=mastodon&color=%2323e71f2)
+
+## :satellite: Featured Project
+
+[**Invisible Signals™**](https://github.com/invisible-signals/invisible-signals) — Open-source career signal intelligence for engineers and leaders. Detect, refine, and transmit your professional impact in the age of algorithmic hiring.
 
 ## :computer: Most popular courses
-- [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)
-- [Tech Career Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication?u=0)
-- [Android Development Essential Training: 4 Working with Data](https://www.linkedin.com/learning/android-development-essential-training-4-working-with-data/developing-data-driven-apps)
+
+- [Android Compose with Kotlin](https://www.linkedin.com/learning/android-compose-with-kotlin?u=2125562)
+- [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/introduction-to-career-skills-in-software-development?u=2125562)
+- [Tech Career Skills: Effective Technical Communication](https://www.linkedin.com/learning/tech-career-skills-effective-technical-communication?u=2125562)
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
