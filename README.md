@@ -20,9 +20,9 @@ I hope you find something useful in my little portion of the Internet :wink:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Invisible Signals: Why Smart Engineers Still Get Overlooked](https://annycedavis.com/2026/06/invisible-signals-why-smart-engineers-still-get-overlooked.html)
 - [AI-Augmented Leadership Is Not About Using AI](https://annycedavis.com/2026/04/ai-augmented-leadership-is-not-about-using-ai.html)
 - [Jetpack Compose and the Speed of Thinking](https://annycedavis.com/2026/02/jetpack-compose-and-the-speed-of-thinking.html)
 - [How I Finally Tamed My Chaotic Files](https://annycedavis.com/2026/02/how-i-finally-tamed-my-chaotic-files.html)
 - [A Year of Building, Learning, and Laughing My Way Through AI at Ford](https://annycedavis.com/2025/12/a-year-of-building-learning-and-laughing-my-way-through-ai-at-ford.html)
-- [Google I/O 2025: What busy Execs need to know](https://annycedavis.com/2025/06/google-i-o-2025-what-busy-execs-need-to-know.html)
 <!-- BLOG-POST-LIST:END -->
